@@ -1,0 +1,72 @@
+body{
+    background: #282828;
+}
+aside{
+    float:left;
+    background: #181818;
+    width: 17,5%;
+    padding: 2,5%;
+    height: 150vh;
+    color: #fff;
+    border-right: 5px solid #4d4d4d;
+
+}
+aside img{
+    width: 100px;
+    float: left;
+
+}
+aside .logo{
+    font-size: 40px;
+    margin-left: 10px;
+    font-weight: bold;
+    position: relative;
+    top: 5px;
+}
+aside h3 {
+    margin-top: 50px;
+    font-weight: bold;
+    padding: 20px;
+}
+aside ul {list-style: none}
+aside ul li {
+
+    color: #fff;
+    margin-top: 5px;
+
+}
+aside ul li:hover, aside ul a:hover{
+    color: #eb5959;
+    text-decoration: none;
+    transform: scale(1.05);
+}
+ .features{
+    text-align: center;
+    color: #fff;
+    width: 75%;
+    float: left;
+    margin-top: 50px;
+ }
+ .features p {
+    margin-top: 50px;
+    font-size: 20px;
+ }
+div h6 {
+    font-size: 30px;
+}
+form {
+    margin-left: 23.5%;
+    margin-top: 50px;
+    width: 600px;
+
+}
+.anons {
+    margin: 10px;
+    width: 200px;
+}
+about_me img {
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 28.5%;
+
+}
